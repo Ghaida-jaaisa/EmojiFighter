@@ -1,6 +1,43 @@
-# EmojiFighter
+# 🥊 EmojiFighter
 
-Each time pick Fighter button is clicked , 2 random figher will generated
+🎮 **EmojiFighter** is a fun little web game where two random emoji characters face off in a whimsical fight. Each click brings a new pair of fighters to the arena!
+
 ---
-![Screenshot 2025-05-16 130444](https://github.com/user-attachments/assets/7a204c60-5ab0-411a-b315-f10653b49eb5)
 
+## 🚀 Live Preview
+
+🌐 [Play EmojiFighter Now!](https://your-live-link.netlify.app)  
+> Replace the above link with your actual Netlify/GitHub Pages URL.
+
+---
+
+## 📸 Screenshot
+
+![EmojiFighter Screenshot](https://github.com/user-attachments/assets/7a204c60-5ab0-411a-b315-f10653b49eb5)
+
+---
+
+## 🧠 How It Works
+
+1. Click the **"Pick Fighters!"** button.
+2. Two random emoji fighters are chosen from a predefined array.
+3. The result is displayed like: `🐉 vs 🐝` – Let your imagination decide the winner!
+
+---
+
+## 🛠 Tech Stack
+
+- ✅ **HTML5**
+- ✅ **CSS3** (with a fun font from Google Fonts)
+- ✅ **Vanilla JavaScript**
+
+---
+
+## 🧩 Code Overview
+
+### HTML (index.html)
+
+```html
+<h1>Emoji<br>Fighter</h1>
+<div id="stage"></div>
+<button id="fightButton">Pick Fighters!</button>
