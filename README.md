@@ -6,7 +6,7 @@
 
 ## 🚀 Live Preview
 
-🌐 [Play EmojiFighter Now!]([https://your-live-link.netlify.app](https://emojifighter.netlify.app/))  
+🌐 [Play EmojiFighter Now!]([https://your-live-link.netlify.app](https://emojifighter.netlify.app/)  
 
 ---
 
