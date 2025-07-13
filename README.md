@@ -6,8 +6,7 @@
 
 ## 🚀 Live Preview
 
-🌐 [Play EmojiFighter Now!](https://your-live-link.netlify.app)  
-> Replace the above link with your actual Netlify/GitHub Pages URL.
+🌐 [Play EmojiFighter Now!]([https://your-live-link.netlify.app](https://emojifighter.netlify.app/))  
 
 ---
 
@@ -30,14 +29,3 @@
 - ✅ **HTML5**
 - ✅ **CSS3** (with a fun font from Google Fonts)
 - ✅ **Vanilla JavaScript**
-
----
-
-## 🧩 Code Overview
-
-### HTML (index.html)
-
-```html
-<h1>Emoji<br>Fighter</h1>
-<div id="stage"></div>
-<button id="fightButton">Pick Fighters!</button>
